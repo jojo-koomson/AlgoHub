@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/jojo-koomson/AlgoHub/master/Assets/homepage.JPG)
+![](https://github.com/jojo-koomson/AlgoHub/blob/main/Assets/homepage.JPG)
 
 # Algorithm Visualizer
 
