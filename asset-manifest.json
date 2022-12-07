@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/AlgoHub/static/css/main.5a14bfd3.chunk.css",
+    "main.js": "/AlgoHub/static/js/main.53d26bb4.chunk.js",
+    "main.js.map": "/AlgoHub/static/js/main.53d26bb4.chunk.js.map",
+    "runtime-main.js": "/AlgoHub/static/js/runtime-main.51c1b2b2.js",
+    "runtime-main.js.map": "/AlgoHub/static/js/runtime-main.51c1b2b2.js.map",
+    "static/css/2.501df8ac.chunk.css": "/AlgoHub/static/css/2.501df8ac.chunk.css",
+    "static/js/2.069e533e.chunk.js": "/AlgoHub/static/js/2.069e533e.chunk.js",
+    "static/js/2.069e533e.chunk.js.map": "/AlgoHub/static/js/2.069e533e.chunk.js.map",
+    "static/js/3.f401b6e5.chunk.js": "/AlgoHub/static/js/3.f401b6e5.chunk.js",
+    "static/js/3.f401b6e5.chunk.js.map": "/AlgoHub/static/js/3.f401b6e5.chunk.js.map",
+    "index.html": "/AlgoHub/index.html",
+    "static/css/2.501df8ac.chunk.css.map": "/AlgoHub/static/css/2.501df8ac.chunk.css.map",
+    "static/css/main.5a14bfd3.chunk.css.map": "/AlgoHub/static/css/main.5a14bfd3.chunk.css.map",
+    "static/js/2.069e533e.chunk.js.LICENSE.txt": "/AlgoHub/static/js/2.069e533e.chunk.js.LICENSE.txt",
+    "static/media/15puzzle.5f6e8f37.PNG": "/AlgoHub/static/media/15puzzle.5f6e8f37.PNG",
+    "static/media/Hero-1.6cdf696d.png": "/AlgoHub/static/media/Hero-1.6cdf696d.png",
+    "static/media/Recursion.74bc404c.jpg": "/AlgoHub/static/media/Recursion.74bc404c.jpg",
+    "static/media/binaryTree.6d8ce938.png": "/AlgoHub/static/media/binaryTree.6d8ce938.png",
+    "static/media/convexHull.2720e7cd.png": "/AlgoHub/static/media/convexHull.2720e7cd.png",
+    "static/media/graph.6e6849d5.png": "/AlgoHub/static/media/graph.6e6849d5.png",
+    "static/media/logo.af96b838.png": "/AlgoHub/static/media/logo.af96b838.png",
+    "static/media/primes.72a2f33f.jpg": "/AlgoHub/static/media/primes.72a2f33f.jpg",
+    "static/media/queen.a967028b.png": "/AlgoHub/static/media/queen.a967028b.png",
+    "static/media/queen.b2332ba3.PNG": "/AlgoHub/static/media/queen.b2332ba3.PNG",
+    "static/media/index.css": "/AlgoHub/static/media/roboto-vietnamese-400-normal.52cebac0.woff2",
+    "static/media/sort.117e08fc.png": "/AlgoHub/static/media/sort.117e08fc.png",
+    "static/media/turing.ab68ef09.jpg": "/AlgoHub/static/media/turing.ab68ef09.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51c1b2b2.js",
+    "static/css/2.501df8ac.chunk.css",
+    "static/js/2.069e533e.chunk.js",
+    "static/css/main.5a14bfd3.chunk.css",
+    "static/js/main.53d26bb4.chunk.js"
+  ]
+}
