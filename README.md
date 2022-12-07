@@ -1,10 +1,10 @@
-![](https://raw.githubusercontent.com/TamimEhsan/AlgorithmVisualizer/master/Assets/homepage.JPG)
+![](https://raw.githubusercontent.com/jojo-koomson/AlgoHub/master/Assets/homepage.JPG)
 
 # Algorithm Visualizer
 
 A better visualization of different algorithms made with React. 
 
-Visit : https://tamimehsan.github.io/AlgorithmVisualizer/
+Visit : https://jojo-koomson.github.io/AlgoHub/
 
 
 
