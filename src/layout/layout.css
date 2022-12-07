@@ -1,0 +1,137 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+.nav__section{
+    position: absolute;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0 auto;
+    background-color: #fff;
+    padding: 10px;
+    
+    /* box-shadow: -2px 8px 10px 0px rgba(0,0,0,0.1); */
+}
+
+.logo_ex img{
+    
+    width: 80px;
+    height: 60px;
+    margin-left: 10px;
+}
+ 
+
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #333;
+}
+ul li{
+    font-family: 'Luckiest Guy', cursive;
+    list-style-type: none;
+    margin-left: 40px;
+    font-size: 1.2rem;
+    color: rgb(167, 76, 232);
+}
+.start{
+    border-style: none;
+    padding: 1rem 2.3rem;
+    border-radius: 35px;
+    background-color: rgb(167, 76, 232);
+    color: #eee;
+    font-size: medium;
+    font-family: 'Luckiest Guy', cursive;
+
+}
+
+/* Hero section */
+
+.hero__wrapper{
+    text-align: center;
+    color: #333;
+    }
+    
+    
+    .hero-bckgrn {
+        display: flex;
+        flex: 1;
+        justify-content: space-between;
+        align-items: center;
+        margin: 20px;
+    }
+    
+    .hero__flex-right img{
+        margin-right: 90px;
+        margin-top: -30px
+    
+    }
+    /* .hero__flex-left{
+        display: block;
+        min-width:2rem;
+    } */
+    .hero__flex-left button,
+    .hero__flex-left div{
+        padding: 1rem;
+        border-radius: 5px;
+        border-style: none;
+        margin-left: 10px auto;
+        text-align: left;
+    }
+
+    .hero-text{
+        font-size: 3rem;
+    }
+    
+    .hero__flex-left P,
+    .hero__flex-left h1{
+        text-align: left;
+        margin-left: 40px;
+        width: 700px;
+    }
+    .hero__flex-left button{
+        display: flex;
+        align-items: right;
+        margin-left: 40px;
+    }
+    @keyframes float {
+        0% {
+            
+            transform: translatey(0px);
+        }
+        50% {
+            
+            transform: translatey(-40px);
+        }
+        100% {
+            
+            transform: translatey(0px);
+        }
+    }
+    .logo_ex2 img{
+        /* font-family: 'Luckiest Guy', cursive; */
+        width: 500px;
+        height: 450px;
+        margin-left: 100px;
+        margin-top: 12%;
+        transform: translatey(0px);
+	    animation: float 2s ease-in-out infinite;
+    }
+
+    
+    /* Features */
+
+    .feature-wrapper{
+        border: solid #FFBA00 ;
+        width: 80%;
+        background-color: #aaa;
+    }
+    
+    .module-text{
+        text-align: center;
+        font-family: 'Luckiest Guy', cursive;
+    }
+    .details{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }

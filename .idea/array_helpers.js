@@ -38,7 +38,7 @@ Array.prototype.swap = function (a, b) {
  * // returns [ 0, 1, 2, 3 ]
  * Array.range(4);
  */
-// Array.range = n => Array.from(new Array(n), (x,i) => i);
+Array.range = n => Array.from(new Array(n), (x,i) => i);
 
 /**
  * Array.matrix
@@ -53,8 +53,8 @@ Array.prototype.swap = function (a, b) {
  * // ]
  * Array.matrix(3, 2);
  */
-// Array.matrix = (x, y) => {
-//     const rows = Array.range(y);
-//     const columns = Array.range(x);
-//     return rows.map( (row, i) => columns.slice() );
-// }
+Array.matrix = (x, y) => {
+    const rows = Array.range(y);
+    const columns = Array.range(x);
+    return rows.map( (row, i) => columns.slice() );
+}

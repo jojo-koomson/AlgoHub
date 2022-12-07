@@ -15,6 +15,7 @@ class Rect extends Component {
             >
                 
             </div>
+            
         );
     }
     checkColor = () => {
