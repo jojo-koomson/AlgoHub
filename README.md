@@ -2,7 +2,7 @@
 
 # Algorithm Visualizer
 
-A better visualization of different algorithms made with React. 
+An Algorithm visualization of different algorithms made with React. 
 
 Visit : https://jojo-koomson.github.io/AlgoHub/
 
